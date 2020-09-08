@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 78838e9902d29d34eaaffbb624883874
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Head
+    100002: Hips
+    100004: HipsTranslation
+    100006: LeftArm
+    100008: LeftFoot
+    100010: LeftForeArm
+    100012: LeftHand
+    100014: LeftLeg
+    100016: LeftShoulder
+    100018: LeftToeBase
+    100020: LeftUpLeg
+    100022: Neck
+    100024: Neck1
+    100026: Neck2
+    100028: pSphere1
+    100030: QuickRigCharacter_Guides
+    100032: QuickRigCharacter_Head
+    100034: QuickRigCharacter_Hips
+    100036: QuickRigCharacter_HipsTranslation
+    100038: QuickRigCharacter_LeftArm
+    100040: QuickRigCharacter_LeftFoot
+    100042: QuickRigCharacter_LeftForeArm
+    100044: QuickRigCharacter_LeftHand
+    100046: QuickRigCharacter_LeftLeg
+    100048: QuickRigCharacter_LeftShoulder
+    100050: QuickRigCharacter_LeftToeBase
+    100052: QuickRigCharacter_LeftUpLeg
+    100054: QuickRigCharacter_Neck
+    100056: QuickRigCharacter_Neck1
+    100058: QuickRigCharacter_Neck2
+    100060: QuickRigCharacter_Reference
+    100062: QuickRigCharacter_RightArm
+    100064: QuickRigCharacter_RightFoot
+    100066: QuickRigCharacter_RightForeArm
+    100068: QuickRigCharacter_RightHand
+    100070: QuickRigCharacter_RightLeg
+    100072: QuickRigCharacter_RightShoulder
+    100074: QuickRigCharacter_RightToeBase
+    100076: QuickRigCharacter_RightUpLeg
+    100078: QuickRigCharacter_Spine
+    100080: QuickRigCharacter_Spine1
+    100082: QuickRigCharacter_Spine2
+    100084: Reference
+    100086: RightArm
+    100088: RightFoot
+    100090: RightForeArm
+    100092: RightHand
+    100094: RightLeg
+    100096: RightShoulder
+    100098: RightToeBase
+    100100: RightUpLeg
+    100102: Spine
+    100104: Spine1
+    100106: Spine2
+    100108: //RootNode
+    400000: Head
+    400002: Hips
+    400004: HipsTranslation
+    400006: LeftArm
+    400008: LeftFoot
+    400010: LeftForeArm
+    400012: LeftHand
+    400014: LeftLeg
+    400016: LeftShoulder
+    400018: LeftToeBase
+    400020: LeftUpLeg
+    400022: Neck
+    400024: Neck1
+    400026: Neck2
+    400028: pSphere1
+    400030: QuickRigCharacter_Guides
+    400032: QuickRigCharacter_Head
+    400034: QuickRigCharacter_Hips
+    400036: QuickRigCharacter_HipsTranslation
+    400038: QuickRigCharacter_LeftArm
+    400040: QuickRigCharacter_LeftFoot
+    400042: QuickRigCharacter_LeftForeArm
+    400044: QuickRigCharacter_LeftHand
+    400046: QuickRigCharacter_LeftLeg
+    400048: QuickRigCharacter_LeftShoulder
+    400050: QuickRigCharacter_LeftToeBase
+    400052: QuickRigCharacter_LeftUpLeg
+    400054: QuickRigCharacter_Neck
+    400056: QuickRigCharacter_Neck1
+    400058: QuickRigCharacter_Neck2
+    400060: QuickRigCharacter_Reference
+    400062: QuickRigCharacter_RightArm
+    400064: QuickRigCharacter_RightFoot
+    400066: QuickRigCharacter_RightForeArm
+    400068: QuickRigCharacter_RightHand
+    400070: QuickRigCharacter_RightLeg
+    400072: QuickRigCharacter_RightShoulder
+    400074: QuickRigCharacter_RightToeBase
+    400076: QuickRigCharacter_RightUpLeg
+    400078: QuickRigCharacter_Spine
+    400080: QuickRigCharacter_Spine1
+    400082: QuickRigCharacter_Spine2
+    400084: Reference
+    400086: RightArm
+    400088: RightFoot
+    400090: RightForeArm
+    400092: RightHand
+    400094: RightLeg
+    400096: RightShoulder
+    400098: RightToeBase
+    400100: RightUpLeg
+    400102: Spine
+    400104: Spine1
+    400106: Spine2
+    400108: //RootNode
+    2100000: synthSerSkin
+    2100002: bandageWhiteSynth
+    2100004: eyeOutsideRed
+    2100006: bandagedarkSynth
+    2100008: ironClasp
+    2100010: eyeDarkSynth
+    2100012: eyeWhiteWyrmSer
+    2100014: blackPupilSynth
+    2100016: lambert1
+    4300000: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pSphere1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
